@@ -1,5 +1,4 @@
 {
-  "current_country_id": 1,
   "locations": [
     {
       "id": 10998878976097,
@@ -3388,8 +3387,5 @@
       "state_name": "São Paulo",
       "uf": "SP"
     }
-  ],
-  "wp_total": 116,
-  "total": 167,
-  "success": true
+  ]
 }
