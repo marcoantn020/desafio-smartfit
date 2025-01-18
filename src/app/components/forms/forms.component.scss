@@ -93,7 +93,7 @@
     width: 100%;
 
     .btn {
-      font-size:  1.125em;
+      font-size: 0.8em;
       border-radius: 4px;
       color: var(--dark-grey);
       font-weight: 700;
@@ -127,6 +127,10 @@
   @media (min-width: 768px) {
     .button-wrapper {
       flex-direction: row;
+    }
+
+    .btn {
+      font-size:  1.125em!important;
     }
   }
 
